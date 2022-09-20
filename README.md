@@ -1,7 +1,6 @@
 <h3 align="center">Haii ini adalah Repository untuk Matakuliah Multimedia</h3>
 
-1. membuat serta memasukan Intruksi di dalam sebuah tombol 
-   Hasil
+1. membuat serta memasukan Intruksi di dalam sebuah tombol dengan hasil sebagai berikut :
    
    ![gambar](https://user-images.githubusercontent.com/100106630/191229581-16d3f66e-2dfb-4467-987b-71adbe8f74a3.png)
    ![gambar](https://user-images.githubusercontent.com/100106630/191229642-a968e683-3087-4508-be55-c65fd037abec.png)
