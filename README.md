@@ -1,4 +1,6 @@
 <h3 align="center">Haii ini adalah Repository untuk Matakuliah Multimedia</h3>
+<h4 align="center">Dosen Pengempu : Abdul Rahman M.Kom</h4>
+
 
 Nama : Farhan Ade Atalarik
 </br>
