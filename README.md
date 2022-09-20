@@ -1,5 +1,8 @@
 <h3 align="center">Haii ini adalah Repository untuk Matakuliah Multimedia</h3>
 
+Nama : Farhan Ade Atalarik
+NPM  : 2135038
+
 1. membuat serta memasukan Intruksi di dalam sebuah tombol dengan hasil sebagai berikut :
    
    ![gambar](https://user-images.githubusercontent.com/100106630/191229581-16d3f66e-2dfb-4467-987b-71adbe8f74a3.png)
